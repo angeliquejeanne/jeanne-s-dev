@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 ## Find me around the web 🌎: 
 
-- Tinkering with interactions on <a href="https://codepen.io/anggiie02"> Codepen</a> 🏓
+<!-- in your body -->
+
+- Tinkering with interactions on <a href="https://codepen.io/anggiie02"><i class="devicon-codepen-plain colored"> Codepen</i></a> 🏓
 <p>
  <a href="#"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
  <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 💼
