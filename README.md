@@ -2,7 +2,7 @@
 
 <!--
 **anggiie/anggiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="img/sans-titre.png"/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github.com/anggiie/anggiie/blob/main/img/Sans%20titre.png" alt="banner banner that says Anggiie - web integrator and front-end web developer, web content creator.">
