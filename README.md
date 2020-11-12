@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  <a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
  <a href="#"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
  <a href="#"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<p><a href="#">➡️ Check out my website</a></p>
+<p><a href="https://angeliquejeanne.com">➡️ Check out my website</a></p>
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/angeliquejeanne" target="_blank">
