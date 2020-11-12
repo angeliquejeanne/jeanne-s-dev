@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 <h2>I am a web integrator passionate about what I do, transforming models into a website and recently a front-end web developer in alternation. Some technologies I like to work with include html + css + sass + scss, JavaScript + jQuery + Babel + Vanilla, Git + GitHub, VSCode. I recently started learning React.js & React-Native.</h2>
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎: 
 
 - Tinkering with interactions on <a href="https://codepen.io/anggiie02"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 
 <p>
  <a href="#"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
  <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 💼
