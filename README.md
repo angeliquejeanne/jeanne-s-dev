@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/anggiie/anggiie/blob/main/img/Sans%20titre.png" alt="banner banner that says Anggiie - web integrator and front-end web developer, web content creator.">
 
 <h2>I am a web integrator passionate about what I do, transforming models into a website and recently a front-end web developer in alternation. Some technologies I like to work with include html
- <img scr="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="25px">+ css + sass + scss, JavaScript + jQuery + Babel + Vanilla, Git + GitHub, VSCode. I recently started learning React.js & React-Native.</h2>
+ <img scr="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="25px" height="25px">+ css + sass + scss, JavaScript + jQuery + Babel + Vanilla, Git + GitHub, VSCode. I recently started learning React.js & React-Native.</h2>
 
 ## Find me around the web 🌎: 
 <a href="https://codepen.io/anggiie02">
