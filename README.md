@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/anggiie"><img src="https://github-readme-stats.vercel.app/api?username=anggiie&hide_border=true&show_icons=true" alt="anggiie github stats"></a>
+</p>
