@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p><a href="https://angeliquejeanne.com">➡️ Check out my website</a></p>
 
 <p align="center">
- <a href="https://www.buymeacoffee.com/anggiie"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=anggiie&button_colour=c21014&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="180px" height="90px"></a>
+ <a href="https://www.buymeacoffee.com/angeliquejeanne""><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=anggiie&button_colour=c21014&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="180px" height="90px"></a>
 
 </a>
 </p>
