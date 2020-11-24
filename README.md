@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p><a href="https://angeliquejeanne.com">➡️ Check out my website</a></p>
 
 <p align="center">
-<a href="buymeacoff.ee/?via=anggiie" target="_blank">
+<a href=buymeacoff.ee/anggiie" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
 </p>
