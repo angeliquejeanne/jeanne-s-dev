@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <p><a href="https://angeliquejeanne.com">➡️ Check out my website</a></p>
 
 <p align="center">
-<a href=buymeacoff.ee/anggiie" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+ <a href="https://www.buymeacoffee.com/anggiie"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=anggiie&button_colour=c21014&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="70px" height="40px"></a>
+
 </a>
 </p>
 
