@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/anggiie"><img src="https://github-readme-stats.vercel.app/api?username=anggiie&true&hide=stars,commits,prs,issues,contribs,radical" alt="anggiie github stats"></a>
+  <a href="https://github.com/anggiie"><img src="https://github-readme-stats.vercel.app/api?username=anggiie&true=stars,commits,prs,issues,contribs,radical" alt="anggiie github stats"></a>
 </p>
 
