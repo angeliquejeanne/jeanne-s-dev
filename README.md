@@ -48,8 +48,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/anggiie"><img src="https://github-readme-stats.vercel.app/api?username=anggiie&true=stars,commits,prs,issues,contribs&theme=dracula&count_private=true" alt="anggiie github stats"></a>
+  <a href="https://github.com/anggiie">
+    <img src="https://github-readme-stats.vercel.app/api?username=anggiie&true=stars,commits,prs,issues,contribs&theme=dracula&count_private=true" alt="anggiie github stats">
+  </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggiie&layout=compact)](https://github.com/anggiie/anggiie)
-[![anggiie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anggiie)](https://github.com/anggiie/anggiie)
+<p align="center">
+  <a href="https://github.com/anggiie">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anggiie" alt="anggiie github stats">
+  </a>
+</p>
