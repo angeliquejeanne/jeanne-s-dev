@@ -51,4 +51,4 @@ Here are some ideas to get you started:
   <a href="https://github.com/anggiie"><img src="https://github-readme-stats.vercel.app/api?username=anggiie&true=stars,commits,prs,issues,contribs&theme=dracula&count_private=true" alt="anggiie github stats"></a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anggiie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anggiie&repo=github-readme-anggiie)](https://github.com/anggiie/anggiie)
