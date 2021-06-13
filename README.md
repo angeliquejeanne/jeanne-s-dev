@@ -56,5 +56,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/anggiie">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anggiie" alt="anggiie github stats">
+   [![anggiie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anggiie)]
+
   </a>
 </p>
