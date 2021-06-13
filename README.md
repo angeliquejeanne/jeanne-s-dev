@@ -59,4 +59,4 @@ Here are some ideas to get you started:
   </a>
 </p>
                                                                                                               
-[![anggiie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anggiie)]
+[![anggiie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anggiie)](https://github.com/anggiie)
