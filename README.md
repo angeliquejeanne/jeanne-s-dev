@@ -46,3 +46,7 @@ Here are some ideas to get you started:
 
 </a>
 </p>
+
+<a href="https://github.com/anggiie">
+    <img src="https://github-readme-stats.vercel.app/api?username=anggiie&true=stars,commits,prs,issues,contribs&theme=dracula&count_private=true" alt="anggiie github stats">
+</a>
