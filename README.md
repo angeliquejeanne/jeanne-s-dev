@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/anggiie/anggiie/blob/main/img/Sans%20titre.png" alt="banner banner that says Anggiie - web integrator and front-end web developer, web content creator.">
+<img src="https://github.com/anggiie/anggiie/blob/main/img/LinkedIn-cover-v2.png" alt="LinkedIn banner, Web & I : Website design, we accompany you from web design to development">
 
-<h2>I am a web integrator passionate about what I do, transforming models into a website and recently a front-end web developer in alternation. Some technologies I like to work with include html + css + sass + scss, JavaScript + jQuery + Babel + Vanilla, Git + GitHub, VSCode. I recently started learning React.js & React-Native.</h2>
+<h2>I'm a web integrator but not only that I'm also very passionate about web design (UI Design), I like to make mockups & prototypes and then transform them (do the integration) into a website. 
+Some of the technologies I like to work with are html + css + sass, JavaScript (Vanilla) + JQuery + React.js, Git + GitHub + GitBash, VSCode + Figma + InDesign + Legacy</h2>
 
 ## Find me around the web 🌎: 
-<a href="https://codepen.io/anggiie02">CodePen</a> 
+<a href="https://codepen.io/">CodePen</a> 
 
 <p>
  <a href="#">
@@ -42,11 +43,11 @@ Here are some ideas to get you started:
 <p><a href="https://angeliquejeanne.com">➡️ Check out my website</a></p>
 
 <p align="center">
- <a href="https://www.buymeacoffee.com/angeliquejeanne""><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=anggiie&button_colour=c21014&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="180px" height="90px"></a>
+ <a href="https://www.buymeacoffee.com/angeliquejeanne"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=anggiie&button_colour=c21014&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="180px" height="90px"></a>
 
 </a>
 </p>
 
-<a href="https://github.com/anggiie">
-    <img src="https://github-readme-stats.vercel.app/api?username=anggiie&true=stars,commits,prs,issues,contribs&theme=dracula&count_private=true" alt="anggiie github stats">
+<a href="https://github.com/jeanne.s.dev">
+    <img src="https://github-readme-sats.vercel.app/api?username=anggiie&true=stars,commits,prs,issues,contribs&theme=dracula&count_private=true" alt="Web & I -> Jeanne S. Dev github stats">
 </a>
