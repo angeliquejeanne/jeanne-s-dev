@@ -40,7 +40,7 @@ Some of the technologies I like to work with are html + css + sass, JavaScript (
  </a>
 </p>
 
-<p><a href="https://angeliquejeanne.com">➡️ Check out my website</a></p>
+<p><a href="https://web-i.org">➡️ Check out my website</a></p>
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/angeliquejeanne"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=anggiie&button_colour=c21014&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="180px" height="90px"></a>
@@ -49,5 +49,6 @@ Some of the technologies I like to work with are html + css + sass, JavaScript (
 </p>
 
 <a href="https://github.com/jeanne-s-dev">
-    <img src="https://github-readme-sats.vercel.app/api?username=jeanne-s-dev&true=stars,commits,prs,issues,contribs&theme=dracula&count_private=true" alt="Web & I -> Jeanne S. Dev github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeanne-s-dev&show_icons=true&lang=FR" alt="Web & I -> Jeanne S. Dev github stats">
 </a>
+![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=jeanne-s-dev&show_icons=true&lang=FR)
