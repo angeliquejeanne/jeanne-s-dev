@@ -51,4 +51,4 @@ Some of the technologies I like to work with are html + css + sass, JavaScript (
 <a href="https://github.com/jeanne-s-dev">
     <img src="https://github-readme-stats.vercel.app/api?username=jeanne-s-dev&true=stars,commits,prs,issues,contribs&theme=dracula&count_private=true" alt="Web & I -> Jeanne S. Dev github stats">
 </a>
-![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=jeanne-s-dev&show_icons=true&lang=FR)
+<!-- ![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=jeanne-s-dev&show_icons=true&lang=FR) -->
