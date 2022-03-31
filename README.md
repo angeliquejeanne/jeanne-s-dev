@@ -40,26 +40,29 @@ Some of the technologies I like to work with are html + css + sass, JavaScript (
  </a>
 </p> -->
 
-<a href="https://www.linkedin.com/in/angelique-simon" target="_blank" rel="external">
+<a href="https://www.linkedin.com/in/angelique-simon/" target="_blank" rel="external">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="joão-linkedin" width="40" height="40" style="max-width:100%;"></img>
 </a>
 
-<a href="https://www.facebook.com/joaovictor.lizdasilveira/" target="_blank" rel="external">
+<!-- <a href="https://www.facebook.com/joaovictor.lizdasilveira/" target="_blank" rel="external">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="face" width="40" height="40" style="max-width:100%;"></img>
-</a>
+</a> -->
 
-<a href="https://www.instagram.com/joaovc_liz/" target="_blank" rel="external">
+<a href="https://www.instagram.com/jeanne-s-dev/" target="_blank" rel="external">
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="insta" width="40" height="40" style="max-width:100%;"></img>
 </a>
 
-<a href="mailto:joaovictorlizsilveira@gmail.com" target="_blank" rel="external">
+<a href="mailto:angeliquejeanne.simon@gmail.com" target="_blank" rel="external">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="email" width="40" height="40" style="max-width:100%;"></img>
 </a>
-<p><a href="https://web-i.org">➡️ Check out my website</a></p>
+
+<p>
+ <a href="https://web-i.org">➡️ Check out my website</a>
+</p>
 
 <p align="center">
- <a href="https://www.buymeacoffee.com/angeliquejeanne"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=anggiie&button_colour=c21014&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="300px" height="180px"></a>
-https://www.buymeacoffee.com/angeliquejeanne
+ <a href="https://www.buymeacoffee.com/angeliquejeanne"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=angeliquejeanne&button_colour=c21014&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="300px" height="180px"></a>
+
 </a>
 </p>
 
