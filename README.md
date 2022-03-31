@@ -51,4 +51,6 @@ Some of the technologies I like to work with are html + css + sass, JavaScript (
 <a href="https://github.com/jeanne-s-dev">
     <img src="https://github-readme-stats.vercel.app/api?username=jeanne-s-dev&true=stars,commits,prs,issues,contribs&theme=dracula&count_private=true" alt="Web & I -> Jeanne S. Dev github stats">
 </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanne-s-dev&show_icons=true&theme=highcontrast)
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanne-s-dev&layout=compact&langs_count=7&theme=dark"/>
 <!-- ![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=jeanne-s-dev&show_icons=true&lang=FR) -->
