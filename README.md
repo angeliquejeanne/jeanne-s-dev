@@ -61,13 +61,7 @@ Some of the technologies I like to work with are html + css + sass, JavaScript (
 </p>
 
 <p>
- <a href="https://www.buymeacoffee.com/angeliquejeanne">
-  <img 
-src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=angeliquejeanne&button_colour=c21014&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" 
-       width="180px" height="90px">
- </a>
-
-</a>
+  <a href="https://www.buymeacoffee.com/angeliquejeanne" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 
 <a href="https://github.com/jeanne-s-dev">
