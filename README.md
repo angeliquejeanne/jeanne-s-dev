@@ -60,8 +60,12 @@ Some of the technologies I like to work with are html + css + sass, JavaScript (
  <a href="https://web-i.org">➡️ Check out my website</a>
 </p>
 
-<p align="center">
- <a href="https://www.buymeacoffee.com/angeliquejeanne"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=angeliquejeanne&button_colour=c21014&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="300px" height="180px"></a>
+<p>
+ <a href="https://www.buymeacoffee.com/angeliquejeanne">
+  <img 
+       src="https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=angeliquejeanne&button_colour=c21014&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" 
+       width="300px" height="180px">
+ </a>
 
 </a>
 </p>
